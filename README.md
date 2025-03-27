@@ -1,6 +1,6 @@
 # Hi there 👋, I’m [Avery][website]
 
-- 🌸 Age: **21**
+- 🌸 Age: **22**
 - ✨ Birthday: **Feb 9**
 - 🎨 Gender: **Woman**
 - 🌈 Pronouns: **[she/her][pronouns]**
