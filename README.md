@@ -4,7 +4,6 @@
 - ✨ Birthday: **Feb 9**
 - 🎨 Gender: **Woman**
 - 🌈 Pronouns: **[she/her][pronouns]**
-- Visit My [Website][website]
 
 ## I'm currently a IT Student
 
