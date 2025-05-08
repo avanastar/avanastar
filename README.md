@@ -1,18 +1,12 @@
-# Hi there 👋, I’m [Avery][website]
+# 💻 Hai im ava
 
-- 🌸 Age: **22**
-- ✨ Birthday: **Feb 9**
-- 🎨 Gender: **Woman**
-- 🌈 Pronouns: **[she/her][pronouns]**
+- 🥀 22 y/o
+- 🖤 woman
+- 🖥️ arch linux
 
-## I'm currently a IT Student
+## 💭 About me
 
-- 📌 I'm Majoring in **Web & Mobile Application Development**
+im a web and mobile developer and currently a student.
+i like cyber security, networking, and messing with computers in general.
 
 [//]: <> (Links)
-
-[wakatime-profile]: https://wakatime.com/@Averyyyyyyyy
-[pronouns-definitions]: https://en.pronouns.page/she/her
-[pronouns]: https://en.pronouns.page/she
-[website]: https://avarose.dev/
-[alexandres-badge-repo]: https://github.com/alexandresanlim/Badges4-README.md-Profile
