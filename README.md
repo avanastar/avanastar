@@ -6,7 +6,7 @@
 
 ## 💭 About me
 
-im a web and mobile developer and currently a student.
+im currently a web and mobile dev student.
 i like cyber security, networking, and messing with computers in general.
 
 [//]: <> (Links)
