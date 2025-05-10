@@ -2,7 +2,7 @@
 
 - 🥀 22 y/o
 - 🖤 woman
-- 🖥️ arch linux
+- 🖥️ arch btw
 
 ## 💭 About me
 
