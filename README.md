@@ -1,6 +1,6 @@
 # 💻 Hai im ava
 
-- 🥀 22 y/o
+- 🥀 23 y/o
 - 🖤 woman
 
 ## 💭 About me
